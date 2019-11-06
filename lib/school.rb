@@ -3,8 +3,8 @@
 
 class School
 
-  def initialize(roster)
-    @roster = Hash.new
+  def roster(name)
+    @name = Hash.new
   end
 
 
