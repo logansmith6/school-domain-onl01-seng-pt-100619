@@ -18,5 +18,9 @@ class School
       end
     end
 
+    def grade(grade)
+      @roster.each do |student|
+        puts student
+      end
 
 end
