@@ -3,10 +3,10 @@
 
 class School
 
-  def initialize(name)
-    @name = name
+  def initialize(roster)
+    @roster = Hash.new
   end
-  Roster = Hash.new
+
 
 
 end
