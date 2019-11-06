@@ -22,5 +22,6 @@ class School
       @roster.each do |student|
         puts student
       end
+    end
 
 end
